@@ -458,6 +458,3 @@ python clean.py
 python database.py
 python queries.py
 This means the database and CSV files can be regenerated from the scraping and processing scripts.
-
-
-
